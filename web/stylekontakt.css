@@ -1,0 +1,30 @@
+body{
+    background: url("kontakt.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+}
+
+#button{
+    width: 27%;
+    height: 45.2%;
+    margin-left: 36.5%;
+    position: absolute;
+    top: 26.3%;
+}
+
+#Karmar{
+    display: none;
+    color: red;
+    width: 11em;
+    height: 5em;
+    margin-left: 26.5%;
+    position: absolute;
+    top: 36.3%;
+    font-size: larger;
+}
+
+#button:hover ~ #Karmar{
+    display: block;
+}
