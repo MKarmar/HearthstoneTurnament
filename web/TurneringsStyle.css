@@ -8,6 +8,10 @@ table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
 }
+
+#tunrnamenttable{
+    width: 100%;
+}
 #table{
     background-color: red;
     width: 90%;
