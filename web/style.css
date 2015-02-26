@@ -1,7 +1,9 @@
 body{
     background-color: #008b8b;
 }
-
+#overskrift{
+    text-align: center;
+}
 #headline{
     font-size: 200%;
     text-align: center;
